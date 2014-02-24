@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalView.EmbeddedResourceViews", "ExternalView.EmbeddedResourceViews\ExternalView.EmbeddedResourceViews.csproj", "{70CF5061-EAE1-4126-B7B3-54FD719BC72E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalView.MainWeb", "ExternalView.MainWeb\ExternalView.MainWeb.csproj", "{823F3154-359E-4EF3-807E-092F358DA081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalView.MVC", "ExternalView.MVC\ExternalView.MVC.csproj", "{D3525845-4E04-4255-8E02-C6EC54784FFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70CF5061-EAE1-4126-B7B3-54FD719BC72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CF5061-EAE1-4126-B7B3-54FD719BC72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CF5061-EAE1-4126-B7B3-54FD719BC72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CF5061-EAE1-4126-B7B3-54FD719BC72E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823F3154-359E-4EF3-807E-092F358DA081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823F3154-359E-4EF3-807E-092F358DA081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823F3154-359E-4EF3-807E-092F358DA081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823F3154-359E-4EF3-807E-092F358DA081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3525845-4E04-4255-8E02-C6EC54784FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3525845-4E04-4255-8E02-C6EC54784FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3525845-4E04-4255-8E02-C6EC54784FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3525845-4E04-4255-8E02-C6EC54784FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
